@@ -15,7 +15,7 @@ This repository hosts a single-page HTML infographic that visually maps this jou
 ## View the Infographic
 The infographic is hosted live via GitHub Pages. 
 
-👉 [**Click here to view the project live**](https://nithya-prakash.github.io/tretinoin-biography/)
+👉 [**Click here to view the project live**](https://nithya-prakash.github.io/Tretinoin/)
 
 ---
 *Frameworks referenced: Bair (2005), Gereffi et al. (2005), and Kaplan & Laing (2005).*
